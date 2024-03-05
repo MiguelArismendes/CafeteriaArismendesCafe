@@ -28,8 +28,11 @@ Se você deseja contribuir para o projeto, siga os passos abaixo:
 4. Envie as alterações para o seu fork: `git push origin minha-feature`.
 5. Abra um pull request neste repositório.
 
-## Licença
+## Links e Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Tamplate Name: Business Casual.
+Template URL: https://startbootstrap.com/theme/business-casual
+Author:  David Miller
+License: MIT License
 
 ---
